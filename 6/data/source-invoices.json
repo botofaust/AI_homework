@@ -1,0 +1,79 @@
+﻿[
+{
+"uuid": "a2eb6c9b-a2d5-11e4-896c-e0cb4ed5f655",
+"number": "НТ-00000001",
+"date": "2015-01-23T11:03:39",
+"posted": false,
+"organization": "Новые технологии ООО",
+"partner": "Торговый дом \"Комплексный\"",
+"responsible": "Администратор",
+"department": "Отдел продаж",
+"goods": 1
+},
+{
+"uuid": "4def4920-2c61-11e4-80fa-bcaec5b8981a",
+"number": "ПК-00000002",
+"date": "2014-08-25T18:08:36",
+"posted": false,
+"organization": "Перспектива ЗАО",
+"partner": "Протон",
+"responsible": "Петрищев Олег Константинович (руководитель)",
+"department": "Отдел продаж",
+"goods": 2
+},
+{
+"uuid": "c5f6a3f5-ca6c-11e1-8c36-080027007001",
+"number": "НТ-00000004",
+"date": "2012-07-07T09:55:00",
+"posted": true,
+"organization": "Новые технологии ООО",
+"partner": "ООО \"Альфа\"",
+"responsible": "Администратор",
+"department": "Отдел продаж",
+"goods": 1
+},
+{
+"uuid": "c5f6a3f4-ca6c-11e1-8c36-080027007001",
+"number": "НТ-00000003",
+"date": "2012-06-04T12:57:12",
+"posted": true,
+"organization": "Новые технологии ООО",
+"partner": "ООО \"Альфа\"",
+"responsible": "Администратор",
+"department": "Отдел продаж",
+"goods": 1
+},
+{
+"uuid": "85589bc4-ca5e-11e1-8c36-080027007001",
+"number": "НТ-00000001",
+"date": "2012-03-23T11:57:31",
+"posted": true,
+"organization": "Новые технологии ООО",
+"partner": "Протон",
+"responsible": "Либерзон Мария Робертовна (менеджер отдела продаж)",
+"department": "Отдел продаж",
+"goods": 1
+},
+{
+"uuid": "c5f6a3f3-ca6c-11e1-8c36-080027007001",
+"number": "ПК-00000001",
+"date": "2011-12-12T10:45:05",
+"posted": true,
+"organization": "Перспектива ЗАО",
+"partner": "ООО \"Альфа\"",
+"responsible": "Либерзон Мария Робертовна (менеджер отдела продаж)",
+"department": "Отдел продаж",
+"goods": 2
+},
+{
+"uuid": "db9af9b9-09db-11e0-915d-e0cb4ed5f627",
+"number": "НТ-00000002",
+"date": "2010-12-17T15:49:05",
+"posted": true,
+"organization": "Новые технологии ООО",
+"partner": "ООО \"Альфа\"",
+"responsible": "Пользователь",
+"department": "Отдел продаж",
+"goods": 2
+}
+]
